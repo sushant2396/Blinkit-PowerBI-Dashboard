@@ -38,4 +38,4 @@ Underperforming categories may benefit from revised pricing or targeted marketin
 
 
 
-Snapshot - ![Dashboard Preview].(https://github.com/sushant2396/Blinkit-PowerBI-Dashboard/blob/main/Blinkit%20Snapshot.jpg)
+
