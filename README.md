@@ -35,3 +35,5 @@ Customer ratings and sentiment have a strong impact on purchase behavior
 Sales performance varies notably across outlet types and locations
 
 Underperforming categories may benefit from revised pricing or targeted marketing strategies
+
+Snapshot -https://github.com/sushant2396/Blinkit-PowerBI-Dashboard/blob/main/Blinkit%20Snapshot.jpg
