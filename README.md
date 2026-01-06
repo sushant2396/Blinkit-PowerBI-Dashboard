@@ -37,6 +37,6 @@ Sales performance varies notably across outlet types and locations
 Underperforming categories may benefit from revised pricing or targeted marketing strategies
 
 Screenshot - 
-Example: ![Dashboard Preview]()
+Example: ![Dashboard Preview](https://github.com/sushant2396/Blinkit-PowerBI-Dashboard/blob/main/Blinkit%20Snapshot.jpg)
 
 
