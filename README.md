@@ -2,7 +2,7 @@
 
 This project focuses on analyzing business performance to uncover actionable insights across sales trends, customer behavior, product categories, and outlet performance. The goal is to support data-driven decision-making by transforming raw data into meaningful insights.
 
-🔍 Key Analysis Areas
+🔍 Key Analysis Areas -
 
 Total Sales & Core Performance KPIs
 
@@ -14,7 +14,7 @@ Customer Demand and Purchasing Patterns
 
 Outlet Performance by Type and Location
 
-🛠 Tools & Techniques
+🛠 Tools & Techniques -
 
 Power BI for interactive dashboards and analysis
 
@@ -26,7 +26,7 @@ Excel for data cleaning and preprocessing
 
 Data Visualization & Storytelling to communicate insights effectively
 
-📈 Key Insights
+📈 Key Insights -
 
 Certain product categories contribute a significant portion of total revenue
 
@@ -36,6 +36,7 @@ Sales performance varies notably across outlet types and locations
 
 Underperforming categories may benefit from revised pricing or targeted marketing strategies
 
-
+Screenshot - 
+Example: ![Dashboard Preview]()
 
 
